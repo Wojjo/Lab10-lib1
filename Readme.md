@@ -1,5 +1,5 @@
-Przedmiot DPP
+Zadanie na przedmiot DPP 
 
-Lab10
+Lab 10: biblioteka 1
 
-Autor: Przemysław Wojcinowicz
+Autor: Pzzemysław Wojcinowicz
