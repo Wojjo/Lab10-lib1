@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='Lab10-lib1',
-    version='0.1',
+    version='0.2',
     packages=find_packages(exclude=['tests*']),
     description='Lab10-lib1',
     long_description=open('README.md').read(),
